@@ -1,3 +1,5 @@
+**Sayantan's Gaming Website** (Built on Django)
+
 Hello, Everyone! Welcome to my Gaming Shop website, built entirely using the Django Framework. This project serves as a hands-on journey to sharpen my Django skills as I strive to become a Full Stack Developer.
 
 Take a sneak peek at some of the key features and visual highlights from my implementation below:
@@ -37,4 +39,3 @@ The pictures below shows the contact infos stored in my DB using Django:
 ![Screenshot 2025-06-28 100153](https://github.com/user-attachments/assets/a66926e1-5ef9-451f-97aa-95b320a34323)
 
 
-sdghdfhgdfh
